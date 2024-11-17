@@ -71,25 +71,25 @@ body {
 https://developer.mozilla.org/ru/docs/Web/CSS/@media
 */
 .name {
-  font-size: 12.778vw;
+  font-size: 10.778vw;
   line-height: 100%;
 }
 
 .block {
-  margin-top: 13.333vw;
+  margin-top: 10.333vw;
 }
 
 .block-title {
   color: rgba(240, 240, 240, 0.6);
-  line-height: 5.208vw;
-  font-size: 4.444vw;
-  margin-bottom: 3.333vw;
+  line-height: 2.208vw;
+  font-size: 1.444vw;
+  margin-bottom: 1.333vw;
 }
 
 .entry {
-  line-height: 7.814vw;
-  font-size: 6.667vw;
-  margin-bottom: 1.667vw;
+  line-height: 4.814vw;
+  font-size: 3.667vw;
+  margin-bottom: 2.667vw;
 }
 
 a {
