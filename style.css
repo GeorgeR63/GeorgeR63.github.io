@@ -71,25 +71,25 @@ body {
 https://developer.mozilla.org/ru/docs/Web/CSS/@media
 */
 .name {
-  font-size: 10.778vw;
+  font-size: 8.778vw;
   line-height: 100%;
 }
 
 .block {
-  margin-top: 10.333vw;
+  margin-top: 9.333vw;
 }
 
 .block-title {
   color: rgba(240, 240, 240, 0.6);
-  line-height: 2.208vw;
-  font-size: 1.444vw;
-  margin-bottom: 1.333vw;
+  line-height: 1.208vw;
+  font-size: 9.444vw;
+  margin-bottom: 10.333vw;
 }
 
 .entry {
-  line-height: 4.814vw;
-  font-size: 3.667vw;
-  margin-bottom: 2.667vw;
+  line-height: 13.000vw;
+  font-size: 7.000vw;
+  margin-bottom: 5.667vw;
 }
 
 a {
@@ -158,12 +158,12 @@ a:hover {
 
   .block-title {
     line-height: 1.906vw;
-    font-size: 1.333vw;
-    margin-bottom: 1.5vw;
+    font-size: 5.333vw;
+    margin-bottom: 1.000vw;
   }
 
   .entry {
-    line-height: 5.813vw;
-    font-size: 3.667vw;
+    line-height: 4.000vw;
+    font-size: 2.000vw;
   }
 }
